@@ -1,0 +1,9 @@
+D:\Github\JH_XamarinFromLabs\CustomMdTest\CustomMdTest\CustomMdTest\bin\Release\CustomMdTest.dll
+D:\Github\JH_XamarinFromLabs\CustomMdTest\CustomMdTest\CustomMdTest\bin\Release\CustomMdTest.pdb
+D:\Github\JH_XamarinFromLabs\CustomMdTest\CustomMdTest\CustomMdTest\bin\Release\Xamarin.Forms.Core.dll
+D:\Github\JH_XamarinFromLabs\CustomMdTest\CustomMdTest\CustomMdTest\bin\Release\Xamarin.Forms.Xaml.dll
+D:\Github\JH_XamarinFromLabs\CustomMdTest\CustomMdTest\CustomMdTest\bin\Release\Xamarin.Forms.Core.xml
+D:\Github\JH_XamarinFromLabs\CustomMdTest\CustomMdTest\CustomMdTest\bin\Release\Xamarin.Forms.Xaml.xml
+D:\Github\JH_XamarinFromLabs\CustomMdTest\CustomMdTest\CustomMdTest\obj\Release\CustomMdTest.csprojResolveAssemblyReference.cache
+D:\Github\JH_XamarinFromLabs\CustomMdTest\CustomMdTest\CustomMdTest\obj\Release\CustomMdTest.dll
+D:\Github\JH_XamarinFromLabs\CustomMdTest\CustomMdTest\CustomMdTest\obj\Release\CustomMdTest.pdb
